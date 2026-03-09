@@ -1,6 +1,3 @@
-2️⃣ Handwritten OCR using CRNN
-
-```markdown
 # Handwritten OCR using CRNN
 
 ## Overview
