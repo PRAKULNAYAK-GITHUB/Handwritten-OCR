@@ -1,6 +1,4 @@
----
-
-# 2️⃣ Handwritten OCR using CRNN
+2️⃣ Handwritten OCR using CRNN
 
 ```markdown
 # Handwritten OCR using CRNN
@@ -111,7 +109,6 @@ handwritten word image
 
 Predicted Text:
 hello
-
 
 
 Future Improvements:
